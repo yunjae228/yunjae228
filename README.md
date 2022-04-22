@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjae228)](https://github.com/yunjae228/github-readme-stats)
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yunjae228"/>
   
 </div>
