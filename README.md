@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-### Yun Jae 👋
+
   
 <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yunjae228"/>
   
   ---
   
-## Studying 노드, mysql, moongodb, 
+## Studying
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
