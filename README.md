@@ -23,8 +23,11 @@ Here are some ideas to get you started:
   
   ---
   
-## Studying
+## Studying 노드, mysql, moongodb, 
+  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   
   
 </div>
