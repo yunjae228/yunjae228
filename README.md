@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yun Jae 👋
 
 <!--
 **yunjae228/yunjae228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yunjae228"/>
+  
+### Yun Jae 👋
+  
+<img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yunjae228"/>
+  
+  ---
+  
+## Studying
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  
   
 </div>
